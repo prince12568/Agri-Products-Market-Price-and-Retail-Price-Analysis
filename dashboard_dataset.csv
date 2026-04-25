@@ -1,0 +1,166 @@
+Name,Category,Season,Price_per_kg,Storage_Type,Storage_Code,Retail_Price_Avg,Markup
+ajwan,Spices,Multi-season,107.5,No Cold Storage,0,275.0,1.558139534883721
+almond(badam),Fruits,Seasonal,980.0,Cold Storage Safe,1,1050.0,0.07142857142857142
+amaranthus,Vegetables,All-season,18.0,Cold Storage Safe,1,60.0,2.3333333333333335
+amla(nelli kai),Fruits,Seasonal,27.0,Cold Storage Safe,1,135.0,4.0
+apple,Fruits,Seasonal,102.5,Cold Storage Safe,1,250.0,1.4390243902439024
+arecanut(betelnut/supari),Fruits,Seasonal,580.0,Cold Storage Safe,1,600.0,0.034482758620689655
+arhar dal(tur dal),Pulses,Kharif,66.5,No Cold Storage,0,210.0,2.1578947368421053
+arhar(tur/red gram)(whole),Pulses,Kharif,66.0,No Cold Storage,0,110.0,0.6666666666666666
+bajra(pearl millet/cumbu),Cereals,Kharif,21.5,No Cold Storage,0,77.5,2.604651162790698
+banana,Fruits,Seasonal,19.0,Cold Sensitive,2,45.0,1.368421052631579
+banana  green,Vegetables,All-season,13.5,Cold Sensitive,2,45.0,2.3333333333333335
+barley(jau),Cereals,Rabi,20.0,No Cold Storage,0,70.0,2.5
+beetroot,Vegetables,All-season,10.0,Cold Storage Safe,1,35.0,2.5
+bengal gram dal(chana dal),Pulses,Rabi,71.5,No Cold Storage,0,120.0,0.6783216783216783
+bengal gram(gram)(whole),Pulses,Rabi,53.75,No Cold Storage,0,110.0,1.0465116279069768
+ber(zizyphus/borehannu),Fruits,Seasonal,12.5,Cold Storage Safe,1,100.0,7.0
+bhindi(ladies finger),Vegetables,All-season,42.5,Cold Sensitive,2,80.0,0.8823529411764706
+big gram,Pulses,Rabi,71.75,No Cold Storage,0,110.0,0.5331010452961672
+bitter gourd,Vegetables,All-season,26.25,Cold Sensitive,2,70.0,1.6666666666666667
+black gram dal(urd dal),Pulses,Rabi,102.5,No Cold Storage,0,165.0,0.6097560975609756
+black gram(urd beans)(whole),Pulses,Rabi,57.5,No Cold Storage,0,155.0,1.6956521739130435
+black pepper,Spices,Multi-season,725.0,No Cold Storage,0,1050.0,0.4482758620689655
+bottle gourd,Vegetables,All-season,18.5,Cold Sensitive,2,60.0,2.2432432432432434
+brinjal,Vegetables,All-season,13.5,Cold Sensitive,2,50.0,2.7037037037037037
+cabbage,Vegetables,All-season,8.5,Cold Storage Safe,1,35.0,3.1176470588235294
+capsicum,Vegetables,All-season,25.0,Cold Sensitive,2,125.0,4.0
+cardamoms,Spices,Multi-season,2600.0,No Cold Storage,0,2250.0,-0.1346153846153846
+carrot,Vegetables,All-season,13.5,Cold Storage Safe,1,50.0,2.7037037037037037
+cashewnuts,Fruits,Seasonal,1000.0,Cold Storage Safe,1,1050.0,0.05
+castor seed,Spices,Multi-season,63.75,No Cold Storage,0,185.0,1.9019607843137254
+cauliflower,Vegetables,All-season,18.5,Cold Storage Safe,1,65.0,2.5135135135135136
+chapparad avare,Vegetables,All-season,60.0,Cold Storage Safe,1,85.0,0.4166666666666667
+cherry,Fruits,Seasonal,140.0,Cold Storage Safe,1,700.0,4.0
+chikoos(sapota),Fruits,Seasonal,15.0,Cold Sensitive,2,85.0,4.666666666666667
+chili red,Spices,Multi-season,320.0,No Cold Storage,0,450.0,0.40625
+chilly capsicum,Vegetables,All-season,35.0,Cold Sensitive,2,125.0,2.5714285714285716
+chow chow,Vegetables,All-season,10.0,Cold Storage Safe,1,60.0,5.0
+chrysanthemum(loose),Flowers,Seasonal,30.0,Cold Storage Safe,1,267.5,7.916666666666667
+cinamon(dalchini),Spices,Multi-season,600.0,No Cold Storage,0,1100.0,0.8333333333333334
+cluster beans,Vegetables,All-season,50.0,Cold Sensitive,2,80.0,0.6
+coconut,Fruits,Seasonal,52.5,Cold Storage Safe,1,50.0,-0.047619047619047616
+colacasia,Vegetables,All-season,38.5,No Cold Storage,0,60.0,0.5584415584415584
+coriander(leaves),Vegetables,All-season,17.0,Cold Storage Safe,1,70.0,3.1176470588235294
+corriander seed,Spices,Multi-season,140.0,No Cold Storage,0,225.0,0.6071428571428571
+cow,Livestock,All-season,450.0,Cold Storage Safe,1,700.0,0.5555555555555556
+cowpea(lobia/karamani),Pulses,All-season,96.0,No Cold Storage,0,110.0,0.14583333333333334
+cowpea(veg),Pulses,All-season,25.0,No Cold Storage,0,80.0,2.2
+cucumbar(kheera),Vegetables,All-season,14.0,Cold Storage Safe,1,70.0,4.0
+cummin seed(jeera),Spices,Rabi,178.05,No Cold Storage,0,215.0,0.2075259758494804
+drumstick,Vegetables,All-season,20.0,Cold Sensitive,2,135.0,5.75
+dry chillies,Spices,Multi-season,230.0,No Cold Storage,0,450.0,0.9565217391304348
+dry grapes,Fruits,Seasonal,333.0,Cold Storage Safe,1,800.0,1.4024024024024024
+elephant yam(suran)/amorphophallus,Vegetables,All-season,25.0,No Cold Storage,0,70.0,1.8
+field pea,Vegetables,All-season,30.0,Cold Storage Safe,1,80.0,1.6666666666666667
+foxtail millet(navane),Cereals,Kharif,25.0,No Cold Storage,0,77.5,2.1
+french beans(frasbean),Vegetables,All-season,35.0,Cold Sensitive,2,125.0,2.5714285714285716
+garlic,Vegetables,All-season,60.0,No Cold Storage,0,350.0,4.833333333333333
+ghee,Spices,Multi-season,675.0,No Cold Storage,0,1250.0,0.8518518518518519
+ginger(dry),Spices,Multi-season,385.0,No Cold Storage,0,225.0,-0.4155844155844156
+ginger(green),Vegetables,All-season,58.5,Cold Storage Safe,1,175.0,1.9914529914529915
+goat,Livestock,All-season,90.0,Cold Storage Safe,1,740.0,7.222222222222222
+gram raw(chholia),Pulses,Rabi,58.75,No Cold Storage,0,110.0,0.8723404255319149
+grapes,Fruits,Seasonal,35.0,Cold Storage Safe,1,175.0,4.0
+green chilli,Vegetables,All-season,25.0,Cold Sensitive,2,225.0,8.0
+green gram dal(moong dal),Pulses,Rabi,108.0,No Cold Storage,0,135.0,0.25
+green gram(moong)(whole),Pulses,Rabi,87.5,No Cold Storage,0,135.0,0.5428571428571428
+green peas,Vegetables,All-season,57.5,Cold Storage Safe,1,140.0,1.434782608695652
+ground nut seed,Spices,Multi-season,105.0,No Cold Storage,0,135.0,0.2857142857142857
+groundnut,Cereals,Kharif,73.75,No Cold Storage,0,135.0,0.8305084745762712
+groundnut pods(raw),Vegetables,Kharif,51.5,Cold Storage Safe,1,90.0,0.7475728155339806
+groundnut(split),Cereals,Kharif,89.5,No Cold Storage,0,135.0,0.5083798882681564
+guar seed(cluster beans seed),Cereals,Kharif,45.0,No Cold Storage,0,125.0,1.7777777777777777
+guava,Fruits,Seasonal,32.0,Cold Sensitive,2,90.0,1.8125
+gur(jaggery),Spices,Multi-season,54.5,No Cold Storage,0,110.0,1.018348623853211
+he buffalo,Livestock,All-season,25.0,Cold Storage Safe,1,700.0,27.0
+hen,Livestock,All-season,3.5,Cold Storage Safe,1,215.0,60.42857142857143
+indian beans(seam),Vegetables,All-season,32.5,Cold Storage Safe,1,100.0,2.076923076923077
+isabgul(psyllium),Spices,Multi-season,100.0,No Cold Storage,0,225.0,1.25
+jack fruit,Fruits,Seasonal,25.25,Cold Sensitive,2,70.0,1.7722772277227723
+jamun(narale hannu),Fruits,Seasonal,200.0,Cold Storage Safe,1,175.0,-0.125
+jowar(sorghum),Cereals,Kharif,21.0,No Cold Storage,0,70.0,2.3333333333333335
+kabuli chana(chickpeaswhite),Pulses,Rabi,53.8,No Cold Storage,0,110.0,1.0446096654275094
+kakada,Vegetables,All-season,300.0,Cold Storage Safe,1,275.0,-0.08333333333333333
+karbuja(musk melon),Fruits,Seasonal,12.5,Cold Storage Safe,1,50.0,3.0
+kartali(kantola),Vegetables,All-season,100.0,Cold Storage Safe,1,100.0,0.0
+kulthi(horse gram),Pulses,Rabi,50.8,No Cold Storage,0,105.0,1.0669291338582678
+leafy vegetable,Vegetables,All-season,9.25,Cold Storage Safe,1,60.0,5.486486486486487
+lemon,Fruits,Seasonal,55.0,Cold Storage Safe,1,90.0,0.6363636363636364
+lentil(masur)(whole),Pulses,Rabi,90.5,No Cold Storage,0,135.0,0.49171270718232046
+lime,Fruits,Seasonal,60.0,Cold Storage Safe,1,90.0,0.5
+linseed,Spices,Rabi,70.0,No Cold Storage,0,175.0,1.5
+litchi,Fruits,Seasonal,150.0,Cold Sensitive,2,225.0,0.5
+little gourd(kundru),Vegetables,All-season,45.0,Cold Storage Safe,1,70.0,0.5555555555555556
+long melon(kakri),Vegetables,All-season,12.0,Cold Storage Safe,1,60.0,4.0
+maize,Cereals,Kharif,21.0,No Cold Storage,0,60.0,1.8571428571428572
+mango,Fruits,Seasonal,65.0,Cold Sensitive,2,100.0,0.5384615384615384
+mango(rawripe),Fruits,Seasonal,42.5,Cold Sensitive,2,100.0,1.3529411764705883
+marigold(calcutta),Flowers,Seasonal,15.0,Cold Storage Safe,1,131.0,7.733333333333333
+masur dal,Pulses,Rabi,75.0,No Cold Storage,0,135.0,0.8
+mataki,Pulses,Rabi,38.8,No Cold Storage,0,110.0,1.8350515463917527
+methi seeds,Spices,Multi-season,68.0,No Cold Storage,0,175.0,1.5735294117647058
+methi(leaves),Vegetables,All-season,35.0,Cold Storage Safe,1,70.0,1.0
+millets,Cereals,Multi-season,26.5,No Cold Storage,0,75.0,1.830188679245283
+mint(pudina),Spices,Multi-season,16.5,No Cold Storage,0,125.0,6.575757575757576
+moath dal,Pulses,Rabi,90.0,No Cold Storage,0,110.0,0.2222222222222222
+mousambi(sweet lime),Fruits,Seasonal,27.5,Cold Storage Safe,1,90.0,2.272727272727273
+mustard,Spices,Rabi,72.0,No Cold Storage,0,135.0,0.875
+onion,Vegetables,All-season,14.5,No Cold Storage,0,35.0,1.4137931034482758
+onion green,Vegetables,All-season,15.0,No Cold Storage,0,35.0,1.3333333333333333
+orange,Fruits,Seasonal,82.5,Cold Storage Safe,1,100.0,0.21212121212121213
+other pulses,Pulses,Kharif/Rabi,49.25,No Cold Storage,0,110.0,1.233502538071066
+ox,Livestock,All-season,400.0,Cold Storage Safe,1,700.0,0.75
+paddy(basmati),Cereals,Kharif,18.5,No Cold Storage,0,125.0,5.756756756756757
+paddy(common),Cereals,Kharif,22.0,No Cold Storage,0,70.0,2.1818181818181817
+paddy(dhan)(common),Cereals,Kharif,30.0,No Cold Storage,0,70.0,1.3333333333333333
+papaya,Fruits,Seasonal,7.0,Cold Sensitive,2,70.0,9.0
+papaya(raw),Vegetables,All-season,8.5,Cold Sensitive,2,60.0,6.0588235294117645
+pea pod/pea cod/ ,Vegetables,All-season,70.0,Cold Storage Safe,1,110.0,0.5714285714285714
+peach,Fruits,Seasonal,150.0,Cold Storage Safe,1,225.0,0.5
+pear(marasebu),Fruits,Seasonal,60.0,Cold Storage Safe,1,225.0,2.75
+peas cod,Pulses,Rabi,18.0,No Cold Storage,0,110.0,5.111111111111111
+pegeon pea(arhar fali),Pulses,Kharif,39.5,No Cold Storage,0,110.0,1.7848101265822784
+pineapple,Fruits,Seasonal,35.0,Cold Sensitive,2,60.0,0.7142857142857143
+plum,Fruits,Seasonal,60.0,Cold Storage Safe,1,175.0,1.9166666666666667
+pointed gourd(parval),Vegetables,All-season,48.5,Cold Sensitive,2,70.0,0.44329896907216493
+pomegranate,Fruits,Seasonal,45.0,Cold Storage Safe,1,135.0,2.0
+potato,Vegetables,All-season,13.0,No Cold Storage,0,35.0,1.6923076923076923
+pumpkin,Vegetables,All-season,9.0,Cold Sensitive,2,50.0,4.555555555555555
+raddish,Vegetables,All-season,12.66,Cold Storage Safe,1,60.0,3.7393364928909953
+ragi(finger millet),Cereals,Kharif,50.5,No Cold Storage,0,75.0,0.48514851485148514
+rat tail radish(mogari),Vegetables,All-season,30.0,Cold Storage Safe,1,60.0,1.0
+raya,Spices,Multi-season,52.75,No Cold Storage,0,175.0,2.3175355450236967
+rayee,Spices,Multi-season,57.5,No Cold Storage,0,175.0,2.0434782608695654
+red gram,Pulses,Rabi,50.6,No Cold Storage,0,210.0,3.150197628458498
+rice,Cereals,Kharif,55.0,No Cold Storage,0,105.0,0.9090909090909091
+ridgeguard(tori),Vegetables,All-season,40.0,Cold Storage Safe,1,70.0,0.75
+round gourd,Vegetables,All-season,31.0,Cold Storage Safe,1,70.0,1.2580645161290323
+sesamum(sesamegingellytil),Spices,Kharif,105.0,No Cold Storage,0,185.0,0.7619047619047619
+she buffalo,Livestock,All-season,1100.0,Cold Storage Safe,1,700.0,-0.36363636363636365
+sheep,Livestock,All-season,35.0,Cold Storage Safe,1,700.0,19.0
+snakeguard,Vegetables,All-season,35.0,Cold Storage Safe,1,70.0,1.0
+soanf,Spices,Multi-season,94.5,No Cold Storage,0,250.0,1.6455026455026456
+soyabean,Pulses,Kharif,52.48,No Cold Storage,0,75.0,0.42911585365853666
+spinach,Vegetables,All-season,12.0,Cold Storage Safe,1,82.5,5.875
+sponge gourd,Vegetables,All-season,27.0,Cold Sensitive,2,70.0,1.5925925925925926
+strawberry,Fruits,Seasonal,7.0,Cold Storage Safe,1,350.0,49.0
+sugar,Cereals,Multi-season,44.25,No Cold Storage,0,45.0,0.01694915254237288
+sugarcane,Cereals,Multi-season,7.5,No Cold Storage,0,35.0,3.6666666666666665
+surat beans(papadi),Pulses,Kharif/Rabi,45.5,No Cold Storage,0,95.0,1.0879120879120878
+suva(dill seed),Spices,Multi-season,92.0,No Cold Storage,0,215.0,1.3369565217391304
+swan phali(flat bean),Vegetables,All-season,30.0,Cold Storage Safe,1,80.0,1.6666666666666667
+sweet potato,Vegetables,All-season,20.0,No Cold Storage,0,105.0,4.25
+sweet pumpkin,Vegetables,All-season,10.0,Cold Sensitive,2,50.0,4.0
+tamarind fruit,Spices,Multi-season,62.0,No Cold Storage,0,150.0,1.4193548387096775
+taramira,Spices,Multi-season,47.35,No Cold Storage,0,185.0,2.907074973600845
+tender coconut,Fruits,Seasonal,55.0,Cold Storage Safe,1,60.0,0.09090909090909091
+tinda,Vegetables,All-season,23.0,Cold Sensitive,2,70.0,2.0434782608695654
+tomato,Vegetables,All-season,8.0,Cold Sensitive,2,29.5,2.6875
+turmeric,Spices,Kharif,140.0,No Cold Storage,0,140.0,0.0
+turmeric(raw),Spices,Kharif,22.0,No Cold Storage,0,140.0,5.363636363636363
+turnip,Vegetables,Kharif,19.0,Cold Storage Safe,1,50.0,1.631578947368421
+water melon,Fruits,Seasonal,8.0,Cold Storage Safe,1,40.0,4.0
+wheat,Cereals,Rabi,21.75,No Cold Storage,0,40.0,0.8390804597701149
+white peas,Pulses,Rabi,47.55,No Cold Storage,0,105.0,1.2082018927444795
+yam(ratalu),Vegetables,All-season,50.0,No Cold Storage,0,65.0,0.3
